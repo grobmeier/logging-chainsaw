@@ -126,6 +126,8 @@
     <ChainsawReleaseVersion>2.1.0</ChainsawReleaseVersion>
     <ChainsawReleaseManager>Robert Middleton</ChainsawReleaseManager>
     <ChainsawReleaseKey>B095DD52</ChainsawReleaseKey>
+    <sonar.organization>grobmeier</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
     <build>
