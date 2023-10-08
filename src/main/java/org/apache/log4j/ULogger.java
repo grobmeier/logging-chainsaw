@@ -14,9 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package org.apache.log4j;
-
 
 /**
  * A proxy for org.slf4j.ULogger.  In slf4j implementing builds, this
@@ -26,8 +24,6 @@ package org.apache.log4j;
  * @author Curt Arnold
  */
 public interface ULogger {
-
-
     /**
      * Is the logger instance enabled for the DEBUG level?
      *
